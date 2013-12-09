@@ -1,0 +1,36 @@
+{
+  "name": "dr-grunt-svg-composer",
+  "description": "Grunt plugin to composite and transform SVG elements",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "rasmusfl0e",
+    "email": "rasmusfl0e@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drdk/dr-grunt-svg-composer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drdk/dr-grunt-svg-composer/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "dr-svg-composer": "~0.1.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "svg"
+  ]
+}
