@@ -1,5 +1,5 @@
 {
-  "name": "dr-grunt-svg-composer",
+  "name": "grunt-dr-svg-composer",
   "description": "Grunt plugin to composite and transform SVG elements",
   "version": "0.1.1",
   "homepage": "",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/drdk/dr-grunt-svg-composer.git"
+    "url": "git://github.com/drdk/grunt-dr-svg-composer.git"
   },
   "bugs": {
-    "url": "https://github.com/drdk/dr-grunt-svg-composer/issues"
+    "url": "https://github.com/drdk/grunt-dr-svg-composer/issues"
   },
   "licenses": [
     {
