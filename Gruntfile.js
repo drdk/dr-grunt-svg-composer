@@ -1,5 +1,5 @@
 /*
- * dr-grunt-svg-sprites
+ * grunt-dr-svg-sprites
  * 
  *
  * Copyright (c) 2013 rasmusfl0e
